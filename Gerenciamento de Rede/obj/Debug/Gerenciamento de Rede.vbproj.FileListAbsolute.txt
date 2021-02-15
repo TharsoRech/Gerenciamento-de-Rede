@@ -1,0 +1,323 @@
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.exe.config
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.exe.manifest
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.application
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Core.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Winforms.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\itextsharp.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\MetroFramework.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\MetroSet UI.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\SnmpSharpNet.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\VncSharp.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\W3Common.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Core.pdb
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\VncSharp.pdb
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddLicense.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddPat.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddPrinter.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AdicionarUsuário.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AçõesComputador.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.ConectionLost.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.EditLicense.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Form1.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.GruposeUsuários.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Resources.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Nova_Conexão.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.SearchPat.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Servidorcontrol.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.VncControl_.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbproj.GenerateResource.Cache
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.exe.manifest
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.application
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.xml
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.pdb
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.pdb
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.xml
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsExec.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psfile.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsGetsid.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsInfo.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pskill.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pslist.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsLoggedon.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psloglist.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pspasswd.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psping.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsService.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psshutdown.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pssuspend.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psversion.txt
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\Pstools.chm
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.GRbrowser.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\DotNetChromeTabs.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Browser1.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddAtalho.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AtalhoControl.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbprojResolveAssemblyReference.cache
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsExec.exe
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psfile.exe
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsGetsid.exe
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsInfo.exe
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pskill.exe
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pslist.exe
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsLoggedon.exe
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psloglist.exe
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pspasswd.exe
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psping.exe
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsService.exe
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psshutdown.exe
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pssuspend.exe
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psversion.txt
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\Pstools.chm
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.exe.config
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.exe.manifest
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.application
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.exe
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.pdb
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.xml
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\DotNetChromeTabs.dll
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Core.dll
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Winforms.dll
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\itextsharp.dll
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\MetroFramework.dll
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\MetroSet UI.dll
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Microsoft.Exchange.WebServices.dll
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\SnmpSharpNet.dll
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\VncSharp.dll
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\W3Common.dll
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\WinForm.UI.dll
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Core.pdb
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Core.dll.config
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Winforms.pdb
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\VncSharp.pdb
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbprojAssemblyReference.cache
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddAtalho.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddLicense.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddPat.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddPrinter.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AdicionarUsuário.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AtalhoControl.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AçõesComputador.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Browser1.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.ConectionLost.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.EditLicense.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Form1.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.GRbrowser.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.GruposeUsuários.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Iniciando.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Resources.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Nova_Conexão.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.SearchPat.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Servidorcontrol.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.VncControl_.resources
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbproj.GenerateResource.cache
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbproj.CoreCompileInputs.cache
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.exe.manifest
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.application
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbproj.CopyComplete
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.exe
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.xml
+\\smdti04\c$\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.pdb
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbprojAssemblyReference.cache
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddAtalho.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddLicense.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddPat.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddPrinter.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AdicionarUsuário.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AtalhoControl.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AçõesComputador.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Browser1.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.ConectionLost.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.EditLicense.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Form1.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.GRbrowser.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.GruposeUsuários.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Iniciando.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Resources.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Nova_Conexão.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.SearchPat.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Servidorcontrol.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.VncControl_.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbproj.GenerateResource.cache
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbproj.CoreCompileInputs.cache
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.exe
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.xml
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.pdb
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsExec.exe
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psfile.exe
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsGetsid.exe
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsInfo.exe
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pskill.exe
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pslist.exe
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsLoggedon.exe
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psloglist.exe
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pspasswd.exe
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psping.exe
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsService.exe
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psshutdown.exe
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pssuspend.exe
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psversion.txt
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\Pstools.chm
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.exe.config
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.exe.manifest
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.application
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.exe
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.pdb
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.xml
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\DotNetChromeTabs.dll
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Core.dll
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Winforms.dll
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\itextsharp.dll
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\MetroFramework.dll
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\MetroSet UI.dll
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\SnmpSharpNet.dll
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\VncSharp.dll
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\W3Common.dll
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\WinForm.UI.dll
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Core.pdb
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Core.dll.config
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\VncSharp.pdb
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.exe.manifest
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.application
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbproj.CopyComplete
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsExec.exe
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psfile.exe
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsGetsid.exe
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsInfo.exe
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pskill.exe
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pslist.exe
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsLoggedon.exe
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psloglist.exe
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pspasswd.exe
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psping.exe
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsService.exe
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psshutdown.exe
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pssuspend.exe
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psversion.txt
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\Pstools.chm
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.exe.config
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.exe.manifest
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.application
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.exe
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.pdb
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.xml
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\DotNetChromeTabs.dll
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Core.dll
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Winforms.dll
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\itextsharp.dll
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\MetroFramework.dll
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\MetroSet UI.dll
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\SnmpSharpNet.dll
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\VncSharp.dll
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\W3Common.dll
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\WinForm.UI.dll
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Core.pdb
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Core.dll.config
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\VncSharp.pdb
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbprojAssemblyReference.cache
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddAtalho.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddLicense.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddPat.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddPrinter.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AdicionarUsuário.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AtalhoControl.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AçõesComputador.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Browser1.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.ConectionLost.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.EditLicense.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Form1.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.GRbrowser.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.GruposeUsuários.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Iniciando.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Resources.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Nova_Conexão.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.SearchPat.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Servidorcontrol.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.VncControl_.resources
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbproj.GenerateResource.cache
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbproj.CoreCompileInputs.cache
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.exe.manifest
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.application
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbproj.CopyComplete
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.exe
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.xml
+C:\Users\tharso.curia\Desktop\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.pdb
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsExec.exe
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psfile.exe
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsGetsid.exe
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsInfo.exe
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pskill.exe
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pslist.exe
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsLoggedon.exe
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psloglist.exe
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pspasswd.exe
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psping.exe
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\PsService.exe
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psshutdown.exe
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\pssuspend.exe
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\psversion.txt
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\PsTools\Pstools.chm
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.exe.config
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.exe.manifest
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.application
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.exe
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.pdb
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Gerenciamento de Rede.xml
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\DotNetChromeTabs.dll
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Core.dll
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Winforms.dll
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\itextsharp.dll
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\MetroFramework.dll
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\MetroSet UI.dll
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Microsoft.Exchange.WebServices.dll
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\SnmpSharpNet.dll
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\VncSharp.dll
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\W3Common.dll
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\WinForm.UI.dll
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Core.pdb
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Core.dll.config
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\Geckofx-Winforms.pdb
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\bin\Debug\VncSharp.pdb
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbprojAssemblyReference.cache
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddAtalho.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddLicense.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddPat.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AddPrinter.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AdicionarUsuário.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AtalhoControl.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.AçõesComputador.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Browser1.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.ConectionLost.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.EditLicense.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Form1.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.GRbrowser.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.GruposeUsuários.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Iniciando.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Resources.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Nova_Conexão.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.SearchPat.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Servidorcontrol.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.VncControl_.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbproj.GenerateResource.cache
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbproj.CoreCompileInputs.cache
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.exe.manifest
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.application
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.vbproj.CopyComplete
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.exe
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.xml
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento de Rede.pdb
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Navegador.resources
+\\smdti01\c$\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.Navegador.resources
+C:\Users\tharso.curia\Documents\Projects\Gerenciamento de Rede\Gerenciamento de Rede\obj\Debug\Gerenciamento_de_Rede.VNCpc.resources
