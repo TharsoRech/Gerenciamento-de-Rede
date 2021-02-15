@@ -1,0 +1,40 @@
+﻿<Serializable>
+Public Class Database
+    Public Domain As String = ""
+    Public ServidorPrincipal As String = ""
+    Public Computadores As New List(Of String)
+    Public Usuários As New List(Of Users)
+    Public Servidores As New List(Of Servidor)
+    Public Gruposad As New List(Of String)
+    Public FirewallIp As String = ""
+    Public FirewallSenha As String = ""
+    Public FirewallUser As String = ""
+    Public WifiIp As String = ""
+    Public WifilSenha As String = ""
+    Public WifilUser As String = ""
+    Public PageSize As String = ""
+    Public PasswordEncoding As String = ""
+    Public PasswordPort As String = ""
+    Public Referral As String = ""
+    Public SecurityMasks As String = ""
+    Public IsMutuallyAuthenticated As String = ""
+    Public Emails As New List(Of String)
+    Public EndereçoSelbetti As String = ""
+    Public UsuarioSelbetti As String = ""
+    Public SenhaSelbetti As String = ""
+    Public EndereçoAntivirus As String = ""
+    Public UsuarioAntivirus As String = ""
+    Public SenhaAntivirus As String = ""
+    Public Impressoras As New List(Of Impressoras)
+    Public Avisos As New List(Of AvisoseErrors)
+    Public Emailadmin As String = ""
+    Public Senhaadmin As String = ""
+    Public servidorEmail As String = ""
+    Public Patrimonios As New List(Of Patrimonio)
+    Public Licenças As New List(Of Licença)
+    Public VNCpassword As String = ""
+    Public VNClastConnection As String = ""
+    Public Destinatarios As New List(Of String)
+    Public Favoritos As New List(Of Favorito)
+    Public ConexoesVNC As New List(Of VNCLast)
+End Class
